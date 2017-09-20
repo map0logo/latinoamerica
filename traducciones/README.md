@@ -6,9 +6,9 @@
 - Goal: Develop guidelines for producing official translations for Carpentry lessons.
 
 ## Objetivos
-- Objetivo: Producir traducciones en español de las lecciones de carpintería de datos y software más utilizadas.
-- Objetivo: coordinar las versiones en inglés y español de las lecciones para mantenerlas sincronizadas.
-- Objetivo: Desarrollar directrices para la producción de traducciones oficiales para las lecciones de carpintería.
+- Objetivo: Producir traducciones en español de las lecciones de Software y Data Carpentry más utilizadas.
+- Objetivo: Coordinar las versiones en inglés y español de las lecciones para mantenerlas sincronizadas.
+- Objetivo: Desarrollar directrices para la producción de traducciones oficiales para las lecciones de Carpentry.
 
 ## In progress / Traducciones en curso
 
